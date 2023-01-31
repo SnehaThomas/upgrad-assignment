@@ -1,2 +1,0 @@
-# upgrad-assignment
-Upgrad Assignment
