@@ -92,10 +92,6 @@ The project pipeline involves several steps in order to build a multiclass class
 The model uses a simple CNN architecture with convolutional, Max pooling and dense layers. The model is trained using SparseCategoricalCrossentropy loss and the Adam optimizer.
 
 
-## Usage
-Clone the repository: git clone [https://github.com/SnehalVirwadekar/MelanomaSkinCancerDetection_CNN.git]
-
-
 ## Observations
 
 ### Initial model 
@@ -168,7 +164,7 @@ Clone the repository: git clone [https://github.com/SnehalVirwadekar/MelanomaSki
 ## Contact
 Created by [SnehalVirwadekar]((https://github.com/SnehalVirwadekar))\
 [Shashank Pandey](https://github.com/shas123123)\
-[Sneha Thomas](https://github.com/SnehaThomas)\
+[Sneha Thomas](https://github.com/SnehaThomas)
 
 
 
